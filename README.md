@@ -1,4 +1,4 @@
-# finlytics
+# Finlytics
 
 **finlytics** is a modern AI-powered finance platform designed to help users make data-driven financial decisions. Built using the latest web technologies, finlytics combines intelligent analysis with a sleek user experience.
 
